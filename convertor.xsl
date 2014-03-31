@@ -10,11 +10,6 @@
   	encoding="ISO-8859-1"
  	indent="yes" 
  />
- 		
-	<xsl:template match="/">
-		<xsl:apply-templates/>
-
-	</xsl:template>
 
 	<!-- On se place au niveau de la présentation -->
 	<xsl:template match="office:document-content/office:body/office:presentation">

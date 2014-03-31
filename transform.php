@@ -27,14 +27,33 @@
 		exit;
 	} else {
 		// Ecrivons quelque chose dans notre fichier.
-		if (fwrite($file, $head.$xmlEast) === FALSE) {
+		if (fwrite($file, $xmlEast."</EAST>") === FALSE) {
 			echo "Impossible d'écrire dans le fichier ($filename)";
 			exit;
 		}
 
-		echo "L'écriture de ($somecontent) dans le fichier ($filename) a réussi";
-
 		fclose($file);
+
+		$contenu = file_get_contents($filename);
+		$explode = explode("\n",$contenu);
+		unset($explode[0]);
+		//unset($explode[0]);
+		$nouveau_contenu = implode("\n",$explode);
+
+
+		if (!$file = fopen( $filename, 'w' )) {
+		echo "Impossible d'ouvrir le fichier ($filename)";
+		exit;
+		} else {
+			// Ecrivons quelque chose dans notre fichier.
+			if (fwrite($file, $head.$nouveau_contenu) === FALSE) {
+				echo "Impossible d'écrire dans le fichier ($filename)";
+				exit;
+			}
+
+		}
+
+		echo "L'écriture de ($somecontent) dans le fichier ($filename) a réussi";
 	}
 
 
