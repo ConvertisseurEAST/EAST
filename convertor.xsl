@@ -16,7 +16,7 @@
 
 		<!--récupération du pied de page pour aller en pied de page droit -->
 		<xsl:for-each select="draw:page">
-			<xsl:if test="@draw:name= 'Slide2'">
+			<xsl:if test="@draw:name= 'Slide1'">
 				<PIEDPAGE_GAUCHE>
 					<xsl:value-of select="draw:frame[2]" />
 				</PIEDPAGE_GAUCHE>
@@ -26,7 +26,7 @@
 		<!-- Récupération de la date qui est le pied de page gauche -->
 
 		<xsl:for-each select="draw:page">
-			<xsl:if test="@draw:name= 'Slide2'">
+			<xsl:if test="@draw:name= 'Slide1'">
 				<PIEDPAGE_DROIT>
 					<xsl:value-of select="draw:frame" />
 				</PIEDPAGE_DROIT>
@@ -56,7 +56,7 @@
 					<!-- parcours de toutes les zones de texte d'une slide -->
 					<xsl:for-each select="draw:frame">
 						<!-- Si c'est une frame de type titre, on ajoute le titre -->
-						<xsl:if test="contains(@draw:name, 'Titre')">
+						<xsl:if test="contains(@draw:name, 'Title')">
 							<TITRE>	
 								<xsl:value-of select="." />
 							</TITRE>

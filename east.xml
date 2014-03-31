@@ -5,249 +5,99 @@
 					<POLICE_TEXTE font="Comic Sans MS"/>
 				</AFFICHAGE>
 			</PREFERENCES>
-			<LOGO_GAUCHE fichier="media/image1.png" hauteur_SVG="100" largeur_SVG="100"/>
-<PIEDPAGE_GAUCHE>Soutenance : Rapport d'activité 2012-2013</PIEDPAGE_GAUCHE><PIEDPAGE_DROIT>17/09/2013</PIEDPAGE_DROIT><PAGE_TITRE>
-  <TITRE>Soutenance : Rapport d&#8217;activité </TITRE>
-  <SOUS_TITRE>Entreprise d&#8217;accueil : SanofiMaster 1 MIAGEUniversité d&#8217;Evry Val d&#8217;Essonne</SOUS_TITRE>
+			<LOGO_GAUCHE fichier="media/image1.png" hauteur_SVG="100" largeur_SVG="100"/>//////////////////////<PIEDPAGE_GAUCHE>PrésentationLibreOfficeCollection de fichiers XMLContentMETAmimetypeSETTINGSstyles</PIEDPAGE_GAUCHE><PIEDPAGE_DROIT>Qu&#8217;est ce qu&#8217;un fichier .odp?</PIEDPAGE_DROIT><PAGE_TITRE>
+  <TITRE>Transformez vos présentationsLibreOfficeen présentations EAST</TITRE>
+  <SOUS_TITRE>Projet R&amp;D 2014</SOUS_TITRE>
 </PAGE_TITRE><PARTIE>
   <SECTION>
-    <TITRE>De la création des laboratoiresMidyen 1718 au groupe européen Sanofi en 2013</TITRE>
+    <LISTE couleur_puce="green" type="square">
+      <EL>PrésentationLibreOffice</EL>
+      <EL>Collection de fichiers XML</EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>Content</EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>META</EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>mimetype</EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>SETTINGS</EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>styles</EL>
+        </LISTE>
+      </EL>
+    </LISTE>
   </SECTION>
 </PARTIE><PARTIE>
   <SECTION>
-    <TITRE>Sanofi en quelques chiffres</TITRE>
     <LISTE couleur_puce="green" type="square">
-      <EL>Présent dans plus de 100 pays</EL>
-      <EL>Plus de 110 000 collaborateurs</EL>
-      <EL>Chiffre d&#8217;affaires net 2012 ; 35 milliards d&#8217;euros</EL>
-      <EL>Diversité des activités</EL>
+      <EL/>
+      <EL>Extraction des différentsfichiers</EL>
+      <EL/>
+      <EL>Focus sur le content.xml qui contient:</EL>
       <EL>
         <LISTE couleur_puce="orange" type="disc">
-          <EL>Pharmacie</EL>
+          <EL>Le contenu des zones dans lesslides</EL>
         </LISTE>
       </EL>
       <EL>
         <LISTE couleur_puce="orange" type="disc">
-          <EL>Vaccins</EL>
+          <EL>Leur position</EL>
         </LISTE>
       </EL>
       <EL>
         <LISTE couleur_puce="orange" type="disc">
-          <EL>Santé animale</EL>
+          <EL>Typologiede la donnée (titre, pied de page&#8230;)</EL>
         </LISTE>
       </EL>
       <EL>
         <LISTE couleur_puce="orange" type="disc">
-          <EL>Recherche et développement&#8230;</EL>
+          <EL>Pagination</EL>
         </LISTE>
       </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL/>
+        </LISTE>
+      </EL>
+      <EL/>
       <EL/>
     </LISTE>
   </SECTION>
 </PARTIE><PARTIE>
   <SECTION>
-    <TITRE>La Direction des Systèmes d&#8217;Information Sanofi</TITRE>
-  </SECTION>
-</PARTIE><PARTIE>
-  <SECTION>
-    <TITRE>L&#8217;entité Centres de Services</TITRE>
-  </SECTION>
-</PARTIE><PARTIE>
-  <SECTION>
-    <TITRE>La place de notre équipe au sein de la divisionFactoryManagement</TITRE>
-  </SECTION>
-</PARTIE><PARTIE>
-  <SECTION>
-    <TITRE>Enterprise Business Modeling Service</TITRE>
     <LISTE couleur_puce="green" type="square">
-      <EL>Représentation de l&#8217;entreprise</EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>Modélisation de son fonctionnement</EL>
-        </LISTE>
-      </EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>
-            <LISTE couleur_puce="green" type="circle">
-              <EL>De ses processus</EL>
-            </LISTE>
-          </EL>
-        </LISTE>
-      </EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>
-            <LISTE couleur_puce="green" type="circle">
-              <EL>De ses applications</EL>
-            </LISTE>
-          </EL>
-        </LISTE>
-      </EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>
-            <LISTE couleur_puce="green" type="circle">
-              <EL>De ses interfaces</EL>
-            </LISTE>
-          </EL>
-        </LISTE>
-      </EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL/>
-        </LISTE>
-      </EL>
-      <EL>Outil de référence de Sanofi pour la cartographie</EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>La suite logicielle MEGA</EL>
-        </LISTE>
-      </EL>
-    </LISTE>
-  </SECTION>
-</PARTIE><PARTIE>
-  <SECTION>
-    <TITRE>Formations à l&#8217;outil et aux méthodes</TITRE>
-    <LISTE couleur_puce="green" type="square">
-      <EL>Formation aux deux modules principaux</EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>BusinessProcess</EL>
-        </LISTE>
-      </EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>Architecture</EL>
-        </LISTE>
-      </EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL/>
-        </LISTE>
-      </EL>
-      <EL>Démarche de BusinessProcessManagement</EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>Représentation des processus de l&#8217;entreprise et leurs enchaînements</EL>
-        </LISTE>
-      </EL>
-    </LISTE>
-  </SECTION>
-</PARTIE><PARTIE>
-  <SECTION>
-    <TITRE>Représentation des infrastructures qui hébergent notre référentiel</TITRE>
-  </SECTION>
-</PARTIE><PARTIE>
-  <SECTION>
-    <TITRE>Accompagnement desactivités demodélisation</TITRE>
-    <LISTE couleur_puce="green" type="square">
-      <EL>Quatre niveaux de représentation proposés par MEGA</EL>
       <EL/>
-    </LISTE>
-  </SECTION>
-</PARTIE><PARTIE>
-  <SECTION>
-    <TITRE>Administration du référentiel</TITRE>
-    <LISTE couleur_puce="green" type="square">
-      <EL>Veiller à la pérennité et au bon usage du référentiel</EL>
+      <EL>&lt;office:document-content&gt; Balise de base</EL>
+      <EL>&lt;office:body&gt;Contenu</EL>
+      <EL>&lt;office:presentation&gt;Liste desSlides</EL>
       <EL>
         <LISTE couleur_puce="orange" type="disc">
-          <EL/>
+          <EL>&lt;draw:page&gt;Slides</EL>
         </LISTE>
       </EL>
       <EL>
         <LISTE couleur_puce="orange" type="disc">
-          <EL>Achat de licences</EL>
-        </LISTE>
-      </EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>
-            <LISTE couleur_puce="green" type="circle">
-              <EL>Relations avec l&#8217;éditeur et nos clients internes</EL>
-            </LISTE>
-          </EL>
-        </LISTE>
-      </EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL/>
-        </LISTE>
-      </EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>Administration des données</EL>
+          <EL>&lt;draw:frame&gt;Listedes zones de texte</EL>
         </LISTE>
       </EL>
       <EL>
         <LISTE couleur_puce="orange" type="disc">
           <EL>
             <LISTE couleur_puce="green" type="circle">
-              <EL>Contrôle de cohérence</EL>
-            </LISTE>
-          </EL>
-        </LISTE>
-      </EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>
-            <LISTE couleur_puce="green" type="circle">
-              <EL>Ménage sur les profils et données erronés</EL>
-            </LISTE>
-          </EL>
-        </LISTE>
-      </EL>
-    </LISTE>
-  </SECTION>
-</PARTIE><PARTIE>
-  <SECTION>
-    <TITRE>Mes autres missions récurrentes</TITRE>
-    <LISTE couleur_puce="green" type="square">
-      <EL>Assistance fonctionnelle et technique</EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>Unitaire : réception d&#8217;un email ou d&#8217;un appel téléphonique</EL>
-        </LISTE>
-      </EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>Rédaction des Fiches FAQ à destination du Service Desk</EL>
-        </LISTE>
-      </EL>
-      <EL/>
-      <EL>Rapports et sites Web</EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>Création et génération de documents contenant des informations contenus dans le référentiel</EL>
-        </LISTE>
-      </EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>
-            <LISTE couleur_puce="green" type="circle">
-              <EL>Diagrammes, attributs&#8230;</EL>
-            </LISTE>
-          </EL>
-        </LISTE>
-      </EL>
-    </LISTE>
-  </SECTION>
-</PARTIE><PARTIE>
-  <SECTION>
-    <TITRE>Veille technologique et recherche de nouveaux clients internes</TITRE>
-    <LISTE couleur_puce="green" type="square">
-      <EL>Suivi des nouveaux modules de l&#8217;éditeur</EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>Participation aux formations</EL>
-        </LISTE>
-      </EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>
-            <LISTE couleur_puce="green" type="circle">
-              <EL>BPMN, BusinessStrategy&#8230;</EL>
+              <EL/>
             </LISTE>
           </EL>
         </LISTE>
@@ -261,17 +111,11 @@
           </EL>
         </LISTE>
       </EL>
-      <EL>Rencontre avec de potentiels futurs clients internes</EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>Service est relativement jeune dans sa forme</EL>
-        </LISTE>
-      </EL>
       <EL>
         <LISTE couleur_puce="orange" type="disc">
           <EL>
             <LISTE couleur_puce="green" type="circle">
-              <EL>A travers la rédaction du catalogue de service, recherche de nouveaux clients.</EL>
+              <EL/>
             </LISTE>
           </EL>
         </LISTE>
@@ -280,77 +124,207 @@
   </SECTION>
 </PARTIE><PARTIE>
   <SECTION>
-    <TITRE>Proof ofconcept : Représentation des processus en BPMN</TITRE>
     <LISTE couleur_puce="green" type="square">
-      <EL>Initiative de typePoCau sein duCoS</EL>
-      <EL>Représentation d&#8217;un échantillon de services</EL>
-      <EL>Trois objectifs</EL>
+      <EL/>
+      <EL>Niveau de texte</EL>
       <EL>
         <LISTE couleur_puce="orange" type="disc">
-          <EL>Expliquer la manière dont nos équipes sont organisées</EL>
+          <EL>Profondeur dans l&#8217;arbre</EL>
         </LISTE>
       </EL>
       <EL>
         <LISTE couleur_puce="orange" type="disc">
-          <EL>Communiquer une vision partagée</EL>
-        </LISTE>
-      </EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>Renforcer les compétences dans les activités de cartographie</EL>
-        </LISTE>
-      </EL>
-    </LISTE>
-  </SECTION>
-</PARTIE><PARTIE>
-  <SECTION>
-    <TITRE>Déroulement du projet</TITRE>
-    <LISTE couleur_puce="green" type="square">
-      <EL>Sélection de l&#8217;échantillon à représenter</EL>
-      <EL/>
-      <EL/>
-      <EL/>
-      <EL/>
-      <EL/>
-      <EL/>
-      <EL>Interview&#61672;Modélisation &#61672;Feedback &#61672;Modélisation</EL>
-    </LISTE>
-  </SECTION>
-</PARTIE><PARTIE>
-  <SECTION>
-    <TITRE>Résultat final</TITRE>
-    <LISTE couleur_puce="green" type="square">
-      <EL>Publication Web à venir</EL>
-      <EL>Harmonie avec le catalogue de services</EL>
-    </LISTE>
-  </SECTION>
-</PARTIE><PARTIE>
-  <SECTION>
-    <TITRE>Conclusion</TITRE>
-    <LISTE couleur_puce="green" type="square">
-      <EL>Nombreuses formations et découverte d&#8217;un environnement logiciel et d&#8217;un ensemble de bonnes pratiques de modélisation</EL>
-      <EL/>
-      <EL>Expérience humaine et professionnelle enrichissante</EL>
-      <EL/>
-      <EL>Réelle confiance accordée</EL>
-      <EL>
-        <LISTE couleur_puce="orange" type="disc">
-          <EL>Réorganisation à venir</EL>
+          <EL>Pas d&#8217;attributs pour le niveau</EL>
         </LISTE>
       </EL>
       <EL>
         <LISTE couleur_puce="orange" type="disc">
           <EL>
             <LISTE couleur_puce="green" type="circle">
-              <EL>L&#8217;occasion de voir comment l&#8217;approche de la cartographie va évoluer</EL>
+              <EL>Ex niveau 2 &lt;text:list&gt; &lt;text:list-item&gt;&lt;text:list&gt;&lt;text:list-item&gt; contenu</EL>
             </LISTE>
           </EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>
+            <LISTE couleur_puce="green" type="circle">
+              <EL>Ex niveau 3&lt;text:list&gt;&lt;text:list-item&gt;&lt;text:list&gt;&lt;text:list-item&gt;&lt;text:list&gt;&lt;text:list-item&gt; contenu</EL>
+            </LISTE>
+          </EL>
+        </LISTE>
+      </EL>
+      <EL/>
+    </LISTE>
+  </SECTION>
+</PARTIE><PARTIE>
+  <SECTION>
+    <LISTE couleur_puce="green" type="square">
+      <EL>Référence aux espaces de nom</EL>
+      <EL/>
+      <EL>Template : match avec le chemin del&#8217;arbre</EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>RequêteXPath</EL>
+        </LISTE>
+      </EL>
+      <EL/>
+      <EL>Applytemplate: Application au n&#339;ud adéquat</EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>Spécifie le chemin pour la récupération de la donnée souhaitée</EL>
         </LISTE>
       </EL>
     </LISTE>
   </SECTION>
 </PARTIE><PARTIE>
   <SECTION>
-    <TITRE>Questions ?</TITRE>
+    <LISTE couleur_puce="green" type="square">
+      <EL>Respect du schéma EAST.xml</EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>Pied de page (G &amp; D)</EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>PAGE Titre</EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>
+            <LISTE couleur_puce="green" type="circle">
+              <EL>Titre, sous titre</EL>
+            </LISTE>
+          </EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>
+            <LISTE couleur_puce="green" type="circle">
+              <EL>Auteur, email</EL>
+            </LISTE>
+          </EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>Section (niveau d&#8217;uneslide)</EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>
+            <LISTE couleur_puce="green" type="circle">
+              <EL>Titre</EL>
+            </LISTE>
+          </EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>
+            <LISTE couleur_puce="green" type="circle">
+              <EL>Elément</EL>
+            </LISTE>
+          </EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>
+            <LISTE couleur_puce="green" type="circle">
+              <EL>Liste (choix de développement)</EL>
+            </LISTE>
+          </EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>
+            <LISTE couleur_puce="green" type="circle">
+              <EL/>
+            </LISTE>
+          </EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL/>
+        </LISTE>
+      </EL>
+    </LISTE>
+  </SECTION>
+</PARTIE><PARTIE>
+  <SECTION>
+    <LISTE couleur_puce="green" type="square">
+      <EL>L&#8217;utilisateur doit pouvoir utiliser de manière simple le convertisseur</EL>
+      <EL/>
+      <EL>Clique sur un traitement « boite noire »</EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>Génération du fichierEAST.html à partir du .opd</EL>
+        </LISTE>
+      </EL>
+      <EL/>
+      <EL>Développement d&#8217;un script supplémentaire</EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>Afin d&#8217;automatiser les différentes taches</EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>Scriptshell</EL>
+        </LISTE>
+      </EL>
+      <EL/>
+    </LISTE>
+  </SECTION>
+</PARTIE><PARTIE>
+  <SECTION>
+    <LISTE couleur_puce="green" type="square">
+      <EL>1) Extraction du fichier .odp</EL>
+      <EL>2) Parcours et traitement XSLT du fichier content.xml</EL>
+      <EL>3) Génération du nouvel arbre XML (EAST)</EL>
+      <EL/>
+      <EL>Ensuite la présentationeastau format html est générée grâce au nouvel arbre XML EAST</EL>
+      <EL/>
+    </LISTE>
+  </SECTION>
+</PARTIE><PARTIE>
+  <SECTION>
+    <LISTE couleur_puce="green" type="square">
+      <EL/>
+      <EL>Traitement des styles des présentations et des formes</EL>
+      <EL/>
+      <EL>Proposer la fonctionnalité d&#8217;écriture d&#8217;équations comme dans EAST</EL>
+      <EL/>
+      <EL>Adapter le travail au formatxmldes fichiers .pptx</EL>
+    </LISTE>
+  </SECTION>
+</PARTIE><PARTIE>
+  <SECTION>
+    <LISTE couleur_puce="green" type="square">
+      <EL>Avez-vous des questions ?</EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>Nous serons heureux</EL>
+        </LISTE>
+      </EL>
+      <EL>
+        <LISTE couleur_puce="orange" type="disc">
+          <EL>
+            <LISTE couleur_puce="green" type="circle">
+              <EL>De vous proposer nos réponses</EL>
+            </LISTE>
+          </EL>
+        </LISTE>
+      </EL>
+    </LISTE>
   </SECTION>
 </PARTIE>
+</EAST>
